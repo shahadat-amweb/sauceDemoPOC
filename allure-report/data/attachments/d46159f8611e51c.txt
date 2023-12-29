@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[class=\"summary_info_label summary_total_label\"]"
+}
